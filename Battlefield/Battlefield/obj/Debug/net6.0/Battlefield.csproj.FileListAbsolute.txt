@@ -1,0 +1,15 @@
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\Battlefield.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\Battlefield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\Battlefield.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\Battlefield.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\Battlefield.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\bin\Debug\net6.0\Battlefield.exe
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\bin\Debug\net6.0\Battlefield.deps.json
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\bin\Debug\net6.0\Battlefield.runtimeconfig.json
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\bin\Debug\net6.0\Battlefield.dll
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\bin\Debug\net6.0\Battlefield.pdb
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\Battlefield.dll
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\refint\Battlefield.dll
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\Battlefield.pdb
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\Battlefield.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\UMG\05 Quinto Semestre\Programación III\02 Segundo Parcial\Clase 09\Battlefield\Battlefield\obj\Debug\net6.0\ref\Battlefield.dll
